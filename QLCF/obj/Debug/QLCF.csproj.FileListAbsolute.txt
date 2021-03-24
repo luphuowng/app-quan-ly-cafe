@@ -1,0 +1,10 @@
+D:\THCSharp\PMQLBCF\QLCF\QLCF\bin\Debug\QLCF.exe.config
+D:\THCSharp\PMQLBCF\QLCF\QLCF\bin\Debug\QLCF.exe
+D:\THCSharp\PMQLBCF\QLCF\QLCF\bin\Debug\QLCF.pdb
+D:\THCSharp\PMQLBCF\QLCF\QLCF\obj\Debug\QLCF.csprojResolveAssemblyReference.cache
+D:\THCSharp\PMQLBCF\QLCF\QLCF\obj\Debug\QLCF.Login.resources
+D:\THCSharp\PMQLBCF\QLCF\QLCF\obj\Debug\QLCF.Properties.Resources.resources
+D:\THCSharp\PMQLBCF\QLCF\QLCF\obj\Debug\QLCF.csproj.GenerateResource.Cache
+D:\THCSharp\PMQLBCF\QLCF\QLCF\obj\Debug\QLCF.exe
+D:\THCSharp\PMQLBCF\QLCF\QLCF\obj\Debug\QLCF.pdb
+D:\THCSharp\PMQLBCF\QLCF\QLCF\obj\Debug\QLCF.TableManager.resources
